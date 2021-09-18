@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\build\bin\ARM\Release\AR-Application-Scherf.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Assets\SplashScreen.scale-200.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Assets\Square150x150Logo.scale-200.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Assets\Square44x44Logo.scale-200.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Assets\Square44x44Logo.targetsize-24.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Assets\Square44x44Logo.targetsize-24_altform-unplated.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Assets\StoreLogo.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Assets\Wide310x150Logo.scale-200.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\NuGet.config</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\StoreManifest.xml</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\boot.config</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\globalgamemanagers</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\globalgamemanagers.assets</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\level0</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\nativePlugins.txt</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\resources.assets</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\resources.assets.resS</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\sharedassets0.assets</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\sharedassets0.assets.resS</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\browscap.ini</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\config</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\2.0\machine.config</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\2.0\settings.map</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\2.0\web.config</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\2.0\Browsers\Compat.browser</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\4.0\machine.config</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\4.0\settings.map</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\4.0\web.config</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\4.0\Browsers\Compat.browser</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\4.5\machine.config</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\4.5\settings.map</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\4.5\web.config</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\4.5\Browsers\Compat.browser</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\etc\mono\mconfig\config.xml</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\Metadata\global-metadata.dat</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\il2cpp_data\Resources\mscorlib.dll-resources.dat</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\Resources\unity default resources</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\Data\Resources\unity_builtin_extra</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\opus_egpv.dll</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\mrwebrtc.dll</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\AR-Application-Scherf\AudioPluginMsHRTF.dll</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\build\bin\ARM\Release\GameAssembly.dll</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\René Scherf\Desktop\AR-Application-Scherf_neu\Builds\build\bin\ARM\Release\GameAssembly.pdb</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
